@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\project-microservices_dotnet_eCommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\mappers\\applicationusermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6604D735-C93E-4584-94D5-1601916A0E38}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6604D735-C93E-4584-94D5-1601916A0E38}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6604D735-C93E-4584-94D5-1601916A0E38}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce_api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42C9B12-7257-4759-BFF7-B1C2D1CEC84A}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.infrastructure\\repositories\\userrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\entites\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42C9B12-7257-4759-BFF7-B1C2D1CEC84A}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6604D735-C93E-4584-94D5-1601916A0E38}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce_api\\ecommerce_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\repositorycontracts\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\servicecontracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\ecommerce.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42C9B12-7257-4759-BFF7-B1C2D1CEC84A}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.infrastructure\\ecommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71686A1D-66CA-4853-8E28-302E8A367DE1}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce.core\\dto\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6604D735-C93E-4584-94D5-1601916A0E38}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce_api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6604D735-C93E-4584-94D5-1601916A0E38}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6604D735-C93E-4584-94D5-1601916A0E38}|..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj|c:\\users\\guoliang zhang\\source\\repos\\ecommercesolutiuon.usersservice\\ecommerce_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUserMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:39:55.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Entites\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Entites\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Entites\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Entites\\ApplicationUser.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:25:34.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepsitory.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\Repositories\\UserRepsitory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\Repositories\\UserRepsitory.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\Repositories\\UserRepsitory.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\Repositories\\UserRepsitory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:06:48.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\Services\\UserService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAxwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:30:46.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Dockerfile",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Dockerfile",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Dockerfile",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-04T18:38:51.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:38:28.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\RegisterRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:55:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:50:48.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAApwCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:16:38.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:44:30.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\AuthenticationResponse.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\AuthenticationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:58:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eCommerce_API.csproj",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj*",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\eCommerce_API.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T18:43:07.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\RepositoryContracts\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\RepositoryContracts\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\RepositoryContracts\\IUsersRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\RepositoryContracts\\IUsersRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:04:01.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:03:05.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\ServiceContracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\ServiceContracts\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\ServiceContracts\\IUserService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\ServiceContracts\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:31:06.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "eCommerce.Core",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj*",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\eCommerce.Core.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T00:02:44.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenderOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\GenderOptions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\GenderOptions.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\GenderOptions.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Core\\DTO\\GenderOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:56:55.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "eCommerce.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T18:41:24.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T18:38:57.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:56:07.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\eCommerceSolutiuon.UsersService\\eCommerce_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T18:38:47.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
